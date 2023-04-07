@@ -1,7 +1,6 @@
-# Firefox vertical tabs setup
+# Firefox setup
 
-<img src="https://cdn.discordapp.com/attachments/1030274959886532618/1030466755216277594/unknown.png">
-
+<img width="926" alt="SCR-20230407-ljcl" src="https://user-images.githubusercontent.com/104392087/230653052-3dee6642-ddf2-457a-9233-25934cc25a0a.png">
 
 ### Files
 `1. chrome` folder
